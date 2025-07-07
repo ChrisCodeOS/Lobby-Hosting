@@ -6,3 +6,5 @@ Currently this Bot is Coded to only work in a certain server. This could be chan
 Commits will be made in the future to make changing the ChannelIDs easier or even not nessecary but currently this is just a hobby project that im using in a server. (excuse for spaghetti code)
 
 If you find any bugs feel free to Dm me @polishbot on discord :D
+
+Resources Used: https://github.com/notunderctrl/discordjs-v14-series
