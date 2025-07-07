@@ -1,0 +1,33 @@
+//   9/20/2024 - add cooldown to join and leave lobbies(check hooj bot)
+//    FInished on 9/22
+
+//  Make it so you have to enter a valid 6 char lobby code when creating lobby
+//  If they dont do this return with a error code
+//  Finished 9/22
+
+//  Maybe include title in /code command so lobby owner can give DM title
+//  Make include Tags in /code command so lobby owner can give DM tags
+//  Some examples include [MFH Warmup], [Sheriff Only], [Casual/Tryhard Only]
+//  Finished 9/22
+
+//  Possibly Make it so lobby owner can close lobby
+//  Finished 9/22
+//  If you implement this make it so you can only host one lobby at a time
+//  Finished 9/22
+
+//  Prevent Owner of lobby from leaving the Lobby. only able to close lobby
+//  FINISHED 11/15
+//  Prevent Owner of lobby from joining another lobby.
+//  Finished 11/15 but still need to test (doesnt work i think)
+//  Find a way to let people create lobby but not type (***Just written in rules atm***)
+
+//let admins close lobbies          DONE 11/22
+//create a list of dm lobbies       DONE 11/22
+//Delete all messages in DM lobbies on startup DONE 11/22
+
+//  Once finished launch bot on server      <------ time to start testing this
+
+//  Add images to the custom Discord messages from #admin
+// DONE 7/6/25
+
+//  DO ALOT OF TESTING

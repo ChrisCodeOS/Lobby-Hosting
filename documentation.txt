@@ -1,0 +1,20 @@
+Run from the DiscordApp folder
+-------------------------------
+Resources		      |
+Youtube - Under Ctrl	      |
+-------------------------------
+node src/register-commands.js |
+			      |
+Run to register commands      |
+-------------------------------
+make sure you are in	      |
+DiscordApp directory          |   
+			      |
+nodemon			      |  
+			      |
+Run to start the bot	      |
+-------------------------------
+https://discord.js.org/	      |
+			      |
+Documentation for discord bots|
+-------------------------------
